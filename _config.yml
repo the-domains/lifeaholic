@@ -1,0 +1,28 @@
+name: Lifeaholic
+favicon: null
+layout_spectrum: 0.8042233812157065
+typography_spectrum: 0.08380218595266342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.15815178398042917
+  lightness: 0.32495104894042015
+  saturation: 0.6380235659889877
+  rhythmicContrast: 0.51330930669792
+purpose: []
